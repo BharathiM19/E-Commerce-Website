@@ -1,5 +1,4 @@
 # E-Commerce-Website
-# E-Commerce-Website
 This is a simple HTML/CSS website for a custom t-shirt printing service. It includes pages for placing orders, viewing contact details, and exploring design options.
 Files Overview
 home.html – Main landing page
